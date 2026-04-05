@@ -1,0 +1,25 @@
+algorithm,dataset,instance_id,n,m,T_max,seed,profit,cpu_time,nodes_explored,lp_solves,cg_iterations
+B&P Basic,synthetic,syn_n8_m2_t12_s0,8,2,12.0,0,5.0,0.0088,1.0,4.0,3.0
+B&P Modified,synthetic,syn_n8_m2_t12_s0,8,2,12.0,0,5.0,0.0067,1.0,4.0,3.0
+B&P Basic,synthetic,syn_n8_m2_t12_s1,8,2,12.0,1,26.0,0.0081,1.0,5.0,4.0
+B&P Modified,synthetic,syn_n8_m2_t12_s1,8,2,12.0,1,26.0,0.0074,1.0,5.0,4.0
+B&P Basic,synthetic,syn_n8_m2_t12_s2,8,2,12.0,2,32.0,0.0099,1.0,7.0,6.0
+B&P Modified,synthetic,syn_n8_m2_t12_s2,8,2,12.0,2,32.0,0.0099,1.0,7.0,6.0
+B&P Basic,synthetic,syn_n10_m2_t14_s0,10,2,14.0,0,20.0,0.0086,1.0,6.0,5.0
+B&P Modified,synthetic,syn_n10_m2_t14_s0,10,2,14.0,0,20.0,0.0085,1.0,6.0,5.0
+B&P Basic,synthetic,syn_n10_m2_t14_s1,10,2,14.0,1,30.0,0.0593,3.0,32.0,29.0
+B&P Modified,synthetic,syn_n10_m2_t14_s1,10,2,14.0,1,30.0,0.0661,5.0,37.0,32.0
+B&P Basic,synthetic,syn_n10_m2_t14_s2,10,2,14.0,2,42.0,0.013,1.0,7.0,6.0
+B&P Modified,synthetic,syn_n10_m2_t14_s2,10,2,14.0,2,42.0,0.0131,1.0,7.0,6.0
+B&P Basic,synthetic,syn_n12_m2_t16_s0,12,2,16.0,0,55.0,0.0743,3.0,30.0,27.0
+B&P Modified,synthetic,syn_n12_m2_t16_s0,12,2,16.0,0,55.0,0.0768,3.0,30.0,27.0
+B&P Basic,synthetic,syn_n12_m2_t16_s1,12,2,16.0,1,43.0,0.0229,1.0,10.0,9.0
+B&P Modified,synthetic,syn_n12_m2_t16_s1,12,2,16.0,1,43.0,0.0246,1.0,10.0,9.0
+B&P Basic,synthetic,syn_n12_m2_t16_s2,12,2,16.0,2,59.0,0.0649,1.0,14.0,13.0
+B&P Modified,synthetic,syn_n12_m2_t16_s2,12,2,16.0,2,59.0,0.0595,1.0,14.0,13.0
+B&P Basic,synthetic,syn_n15_m2_t18_s0,15,2,18.0,0,65.0,0.1994,1.0,11.0,10.0
+B&P Modified,synthetic,syn_n15_m2_t18_s0,15,2,18.0,0,65.0,0.2175,1.0,11.0,10.0
+B&P Basic,synthetic,syn_n15_m2_t18_s1,15,2,18.0,1,55.0,0.1965,1.0,16.0,15.0
+B&P Modified,synthetic,syn_n15_m2_t18_s1,15,2,18.0,1,55.0,0.1399,1.0,16.0,15.0
+B&P Basic,synthetic,syn_n15_m2_t18_s2,15,2,18.0,2,63.0,0.4538,1.0,24.0,23.0
+B&P Modified,synthetic,syn_n15_m2_t18_s2,15,2,18.0,2,63.0,0.4591,1.0,24.0,23.0

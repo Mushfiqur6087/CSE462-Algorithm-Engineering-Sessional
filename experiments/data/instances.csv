@@ -1,0 +1,4 @@
+dataset,instance_id,file,customers,vehicles,instances,year
+Chao Benchmark,chao_rep_32,chao_rep_32.json,32,2-4,157,1996
+Dang Benchmark,dang_rep_102,dang_rep_102.json,102,2-4,82,2013
+Vansteenwegen OP/TOP,van_rep_50,van_rep_50.json,50,1-4,120,2009-2015

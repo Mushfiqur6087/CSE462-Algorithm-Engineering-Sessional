@@ -1,0 +1,5 @@
+algorithm,profit,cpu_time,nodes_explored,lp_solves,cg_iterations,section,iterations
+B&P Basic,41.25,0.09329166666666666,1.3333333333333333,13.833333333333334,12.5,Branch-and-Price,
+B&P Modified,41.25,0.09075833333333333,1.5,14.25,12.75,Branch-and-Price,
+ILS Basic,40.9,0.017654999999999997,,,,ILS,80.0
+ILS Modified,40.95,0.053615,,,,ILS,80.0
