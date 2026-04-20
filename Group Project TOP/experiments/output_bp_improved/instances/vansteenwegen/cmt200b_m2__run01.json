@@ -1,0 +1,86 @@
+{
+  "instance": {
+    "num_nodes": 201,
+    "team_size": 2,
+    "max_route_distance": 191.0,
+    "start_depot": 0,
+    "end_depot": 200
+  },
+  "objective": {
+    "total_score": 698.0
+  },
+  "performance": {
+    "cpu_time_seconds": 55.03554800001439,
+    "iterations": 36,
+    "iterations_to_convergence": 36,
+    "last_improvement_iteration": 36,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 3,
+    "num_lp_solves": 36,
+    "num_labels_generated": 25190352,
+    "columns_generated": 5343,
+    "columns_in_pool": 1781,
+    "fractional_columns_at_root": 0
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        105,
+        28,
+        111,
+        138,
+        154,
+        12,
+        68,
+        177,
+        109,
+        26,
+        195,
+        149,
+        180,
+        40,
+        58,
+        152,
+        53,
+        156,
+        200
+      ],
+      "score": 348.0,
+      "length": 85.89568072116035
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        89,
+        147,
+        94,
+        96,
+        104,
+        99,
+        59,
+        93,
+        85,
+        100,
+        98,
+        37,
+        151,
+        97,
+        87,
+        95,
+        13,
+        112,
+        200
+      ],
+      "score": 350.0,
+      "length": 74.72212416103947
+    }
+  ],
+  "dataset": "vansteenwegen",
+  "instance_name": "cmt200b_m2.txt",
+  "run_seed": 13008,
+  "run_index": 1
+}

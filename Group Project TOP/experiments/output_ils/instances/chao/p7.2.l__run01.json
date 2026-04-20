@@ -1,0 +1,89 @@
+{
+  "instance": {
+    "num_nodes": 102,
+    "team_size": 2,
+    "max_route_distance": 120.0,
+    "start_depot": 0,
+    "end_depot": 101
+  },
+  "objective": {
+    "total_score": 709.0
+  },
+  "performance": {
+    "cpu_time_seconds": 0.2665832999628037,
+    "iterations": 20,
+    "iterations_to_convergence": 15,
+    "last_improvement_iteration": 15,
+    "stagnation_iterations": 5,
+    "accepted_worse_moves": 3,
+    "restarts_performed": 1,
+    "num_lp_solves": null,
+    "num_labels_generated": null
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        29,
+        55,
+        63,
+        58,
+        100,
+        8,
+        56,
+        11,
+        1,
+        94,
+        42,
+        23,
+        12,
+        36,
+        22,
+        60,
+        74,
+        99,
+        98,
+        59,
+        21,
+        41,
+        39,
+        101
+      ],
+      "score": 387.0,
+      "length": 119.8783298694508
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        30,
+        50,
+        51,
+        15,
+        52,
+        9,
+        93,
+        40,
+        16,
+        83,
+        49,
+        27,
+        91,
+        48,
+        90,
+        62,
+        13,
+        57,
+        14,
+        101
+      ],
+      "score": 322.0,
+      "length": 118.61520728825136
+    }
+  ],
+  "dataset": "chao",
+  "instance_name": "p7.2.l.txt",
+  "run_seed": 191008,
+  "run_index": 1
+}

@@ -1,0 +1,132 @@
+{
+  "instance": {
+    "num_nodes": 263,
+    "team_size": 4,
+    "max_route_distance": 297.25,
+    "start_depot": 0,
+    "end_depot": 262
+  },
+  "objective": {
+    "total_score": 2146.0
+  },
+  "performance": {
+    "cpu_time_seconds": 1.8562732000000324,
+    "iterations": 20,
+    "iterations_to_convergence": 12,
+    "last_improvement_iteration": 12,
+    "stagnation_iterations": 8,
+    "accepted_worse_moves": 3,
+    "restarts_performed": 1,
+    "num_lp_solves": null,
+    "num_labels_generated": null
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        228,
+        70,
+        210,
+        132,
+        4,
+        190,
+        29,
+        17,
+        53,
+        203,
+        197,
+        72,
+        206,
+        261,
+        78,
+        208,
+        141,
+        67,
+        230,
+        262
+      ],
+      "score": 563.0,
+      "length": 294.7008080264797
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        138,
+        201,
+        154,
+        69,
+        98,
+        107,
+        243,
+        114,
+        144,
+        99,
+        80,
+        3,
+        163,
+        159,
+        6,
+        139,
+        171,
+        185,
+        20,
+        137,
+        253,
+        233,
+        262
+      ],
+      "score": 623.0,
+      "length": 294.608018294117
+    },
+    {
+      "route_index": 3,
+      "nodes": [
+        0,
+        32,
+        71,
+        212,
+        7,
+        189,
+        111,
+        95,
+        165,
+        184,
+        18,
+        262
+      ],
+      "score": 407.0,
+      "length": 293.56216499555535
+    },
+    {
+      "route_index": 4,
+      "nodes": [
+        0,
+        220,
+        128,
+        129,
+        52,
+        227,
+        172,
+        26,
+        260,
+        136,
+        256,
+        123,
+        48,
+        11,
+        60,
+        89,
+        204,
+        30,
+        262
+      ],
+      "score": 553.0,
+      "length": 287.3786060036644
+    }
+  ],
+  "dataset": "vansteenwegen",
+  "instance_name": "gil262_gen3_m4.txt",
+  "run_seed": 34
+}

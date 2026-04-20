@@ -1,0 +1,79 @@
+{
+  "instance": {
+    "num_nodes": 128,
+    "team_size": 3,
+    "max_route_distance": 19713.7,
+    "start_depot": 0,
+    "end_depot": 127
+  },
+  "objective": {
+    "total_score": 524.0
+  },
+  "performance": {
+    "cpu_time_seconds": 2.836890200036578,
+    "iterations": 2,
+    "iterations_to_convergence": 2,
+    "last_improvement_iteration": 2,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 0,
+    "num_lp_solves": 2,
+    "num_labels_generated": 862752,
+    "columns_generated": 1688,
+    "columns_in_pool": 1688,
+    "fractional_columns_at_root": 0
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        97,
+        127
+      ],
+      "score": 100.0,
+      "length": 19648.907145182402
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        106,
+        127
+      ],
+      "score": 99.0,
+      "length": 19505.94411967798
+    },
+    {
+      "route_index": 3,
+      "nodes": [
+        0,
+        12,
+        49,
+        50,
+        56,
+        53,
+        120,
+        55,
+        52,
+        46,
+        54,
+        123,
+        51,
+        4,
+        100,
+        114,
+        9,
+        119,
+        6,
+        127
+      ],
+      "score": 325.0,
+      "length": 12094.684175956667
+    }
+  ],
+  "dataset": "dang",
+  "instance_name": "bier127_gen3_m3.txt",
+  "run_seed": 6007,
+  "run_index": 0
+}

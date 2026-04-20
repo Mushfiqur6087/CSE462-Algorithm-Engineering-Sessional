@@ -1,0 +1,124 @@
+{
+  "instance": {
+    "num_nodes": 66,
+    "team_size": 4,
+    "max_route_distance": 31.2,
+    "start_depot": 0,
+    "end_depot": 65
+  },
+  "objective": {
+    "total_score": 1520.0
+  },
+  "performance": {
+    "cpu_time_seconds": 17.459173300070688,
+    "iterations": 28,
+    "iterations_to_convergence": 28,
+    "last_improvement_iteration": 28,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 3,
+    "num_lp_solves": 28,
+    "num_labels_generated": 3381286,
+    "columns_generated": 4970,
+    "columns_in_pool": 1658,
+    "fractional_columns_at_root": 0
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        21,
+        13,
+        14,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        9,
+        10,
+        11,
+        20,
+        65
+      ],
+      "score": 375.0,
+      "length": 31.1610644729537
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        44,
+        52,
+        51,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        56,
+        55,
+        54,
+        45,
+        65
+      ],
+      "score": 375.0,
+      "length": 31.1610644729537
+    },
+    {
+      "route_index": 3,
+      "nodes": [
+        0,
+        28,
+        27,
+        26,
+        17,
+        25,
+        33,
+        41,
+        49,
+        57,
+        58,
+        50,
+        42,
+        34,
+        35,
+        36,
+        65
+      ],
+      "score": 385.0,
+      "length": 31.06449510224598
+    },
+    {
+      "route_index": 4,
+      "nodes": [
+        0,
+        29,
+        30,
+        31,
+        23,
+        15,
+        7,
+        8,
+        16,
+        24,
+        32,
+        40,
+        48,
+        39,
+        38,
+        37,
+        65
+      ],
+      "score": 385.0,
+      "length": 31.06449510224598
+    }
+  ],
+  "dataset": "chao",
+  "instance_name": "p5.4.y.txt",
+  "run_seed": 136008,
+  "run_index": 1
+}

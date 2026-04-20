@@ -1,0 +1,119 @@
+{
+  "instance": {
+    "num_nodes": 251,
+    "team_size": 4,
+    "max_route_distance": 148.75,
+    "start_depot": 0,
+    "end_depot": 250
+  },
+  "objective": {
+    "total_score": 2933.0
+  },
+  "performance": {
+    "cpu_time_seconds": 1.12015540000084,
+    "iterations": 20,
+    "iterations_to_convergence": 13,
+    "last_improvement_iteration": 13,
+    "stagnation_iterations": 7,
+    "accepted_worse_moves": 1,
+    "restarts_performed": 1,
+    "num_lp_solves": null,
+    "num_labels_generated": null
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        249,
+        122,
+        38,
+        39,
+        102,
+        15,
+        219,
+        84,
+        135,
+        146,
+        69,
+        250
+      ],
+      "score": 509.0,
+      "length": 148.57885939765154
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        190,
+        123,
+        118,
+        3,
+        8,
+        213,
+        112,
+        96,
+        207,
+        73,
+        198,
+        204,
+        250
+      ],
+      "score": 571.0,
+      "length": 146.85245264702553
+    },
+    {
+      "route_index": 3,
+      "nodes": [
+        0,
+        195,
+        217,
+        36,
+        220,
+        150,
+        183,
+        58,
+        230,
+        26,
+        148,
+        170,
+        2,
+        125,
+        64,
+        250
+      ],
+      "score": 873.0,
+      "length": 145.47034026759263
+    },
+    {
+      "route_index": 4,
+      "nodes": [
+        0,
+        163,
+        224,
+        157,
+        82,
+        193,
+        101,
+        203,
+        57,
+        131,
+        214,
+        11,
+        241,
+        225,
+        223,
+        43,
+        62,
+        237,
+        177,
+        250
+      ],
+      "score": 980.0,
+      "length": 146.73984932181548
+    }
+  ],
+  "dataset": "dang",
+  "instance_name": "gil262a_m4.txt",
+  "run_seed": 36
+}

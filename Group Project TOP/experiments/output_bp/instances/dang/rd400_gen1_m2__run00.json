@@ -1,0 +1,70 @@
+{
+  "instance": {
+    "num_nodes": 401,
+    "team_size": 2,
+    "max_route_distance": 3820.5,
+    "start_depot": 0,
+    "end_depot": 400
+  },
+  "objective": {
+    "total_score": 20.0
+  },
+  "performance": {
+    "cpu_time_seconds": 9.057332700002007,
+    "iterations": 2,
+    "iterations_to_convergence": 2,
+    "last_improvement_iteration": 2,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 0,
+    "num_lp_solves": 2,
+    "num_labels_generated": 2916804,
+    "columns_generated": 1961,
+    "columns_in_pool": 1961,
+    "fractional_columns_at_root": 0
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        4,
+        38,
+        400
+      ],
+      "score": 2.0,
+      "length": 1096.9762965333198
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        8,
+        200,
+        255,
+        33,
+        346,
+        177,
+        308,
+        235,
+        201,
+        213,
+        284,
+        285,
+        257,
+        236,
+        160,
+        44,
+        168,
+        3,
+        400
+      ],
+      "score": 18.0,
+      "length": 919.55181104824
+    }
+  ],
+  "dataset": "dang",
+  "instance_name": "rd400_gen1_m2.txt",
+  "run_seed": 72007,
+  "run_index": 0
+}

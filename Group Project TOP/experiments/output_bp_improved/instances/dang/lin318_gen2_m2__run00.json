@@ -1,0 +1,70 @@
+{
+  "instance": {
+    "num_nodes": 319,
+    "team_size": 2,
+    "max_route_distance": 10522.5,
+    "start_depot": 0,
+    "end_depot": 318
+  },
+  "objective": {
+    "total_score": 1227.0
+  },
+  "performance": {
+    "cpu_time_seconds": 47.624258200172335,
+    "iterations": 6,
+    "iterations_to_convergence": 6,
+    "last_improvement_iteration": 6,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 3,
+    "num_lp_solves": 6,
+    "num_labels_generated": 6899508,
+    "columns_generated": 5637,
+    "columns_in_pool": 1879,
+    "fractional_columns_at_root": 0
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        36,
+        24,
+        318
+      ],
+      "score": 190.0,
+      "length": 2325.6616639368476
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        5,
+        6,
+        9,
+        10,
+        14,
+        20,
+        21,
+        28,
+        31,
+        30,
+        29,
+        102,
+        27,
+        22,
+        19,
+        11,
+        2,
+        1,
+        318
+      ],
+      "score": 1037.0,
+      "length": 2109.8521222709023
+    }
+  ],
+  "dataset": "dang",
+  "instance_name": "lin318_gen2_m2.txt",
+  "run_seed": 51007,
+  "run_index": 0
+}

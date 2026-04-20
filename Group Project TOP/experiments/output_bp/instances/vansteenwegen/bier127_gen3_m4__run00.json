@@ -1,0 +1,91 @@
+{
+  "instance": {
+    "num_nodes": 128,
+    "team_size": 4,
+    "max_route_distance": 14785.2,
+    "start_depot": 0,
+    "end_depot": 127
+  },
+  "objective": {
+    "total_score": 555.0
+  },
+  "performance": {
+    "cpu_time_seconds": 2.5235141000011936,
+    "iterations": 2,
+    "iterations_to_convergence": 2,
+    "last_improvement_iteration": 2,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 0,
+    "num_lp_solves": 2,
+    "num_labels_generated": 862752,
+    "columns_generated": 1682,
+    "columns_in_pool": 1682,
+    "fractional_columns_at_root": 0
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        84,
+        127
+      ],
+      "score": 75.0,
+      "length": 14691.29810466046
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        31,
+        27,
+        127
+      ],
+      "score": 80.0,
+      "length": 8784.5067954142
+    },
+    {
+      "route_index": 3,
+      "nodes": [
+        0,
+        32,
+        28,
+        127
+      ],
+      "score": 75.0,
+      "length": 7687.512068183561
+    },
+    {
+      "route_index": 4,
+      "nodes": [
+        0,
+        12,
+        49,
+        50,
+        56,
+        53,
+        120,
+        55,
+        52,
+        46,
+        54,
+        123,
+        51,
+        4,
+        100,
+        114,
+        9,
+        119,
+        6,
+        127
+      ],
+      "score": 325.0,
+      "length": 12094.684175956667
+    }
+  ],
+  "dataset": "vansteenwegen",
+  "instance_name": "bier127_gen3_m4.txt",
+  "run_seed": 7007,
+  "run_index": 0
+}

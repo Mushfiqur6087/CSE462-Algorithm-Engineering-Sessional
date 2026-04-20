@@ -1,0 +1,26 @@
+{
+  "metric_notes": {
+    "gap_to_optimum_note": "Exact optimum values are not available for all instances in this practical B&P pipeline. Gap is reported against best score found across repeated runs per instance.",
+    "success_rate_note": "success_reference_hit is 1 when a run matches reference_best_score for that instance.",
+    "bp_note": "This is a practical branch-and-price style pipeline: LP column generation at root with heuristic pricing, then integer master over generated columns."
+  },
+  "config": {
+    "seed": 7,
+    "max_cg_iterations": 12,
+    "pricing_trials": 22,
+    "max_insertions": 18,
+    "runs_per_instance": 2,
+    "skip_existing": false,
+    "improved_restarts": 3,
+    "improved_seed_jump": 97
+  },
+  "files": {
+    "summary_csv": "output_bp_improved\\summary.csv",
+    "instance_metrics_csv": "output_bp_improved\\instance_metrics.csv",
+    "dataset_metrics_csv": "output_bp_improved\\dataset_metrics.csv",
+    "quality_distribution_csv": "output_bp_improved\\quality_distribution.csv",
+    "runtime_vs_instance_size_csv": "output_bp_improved\\runtime_vs_instance_size.csv",
+    "runtime_vs_instance_size_plot": "output_bp_improved\\runtime_vs_instance_size.png",
+    "plot_status": "ok"
+  }
+}

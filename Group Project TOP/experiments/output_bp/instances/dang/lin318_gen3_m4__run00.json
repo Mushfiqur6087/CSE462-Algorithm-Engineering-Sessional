@@ -1,0 +1,91 @@
+{
+  "instance": {
+    "num_nodes": 319,
+    "team_size": 4,
+    "max_route_distance": 5261.25,
+    "start_depot": 0,
+    "end_depot": 318
+  },
+  "objective": {
+    "total_score": 390.0
+  },
+  "performance": {
+    "cpu_time_seconds": 6.474631900084205,
+    "iterations": 2,
+    "iterations_to_convergence": 2,
+    "last_improvement_iteration": 2,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 0,
+    "num_lp_solves": 2,
+    "num_labels_generated": 2299836,
+    "columns_generated": 1716,
+    "columns_in_pool": 1716,
+    "fractional_columns_at_root": 4
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        88,
+        318
+      ],
+      "score": 54.0,
+      "length": 5254.320127285737
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        34,
+        33,
+        318
+      ],
+      "score": 60.0,
+      "length": 2960.1047980265907
+    },
+    {
+      "route_index": 3,
+      "nodes": [
+        0,
+        38,
+        37,
+        318
+      ],
+      "score": 68.0,
+      "length": 3356.274933536816
+    },
+    {
+      "route_index": 4,
+      "nodes": [
+        0,
+        5,
+        6,
+        9,
+        10,
+        14,
+        20,
+        21,
+        28,
+        31,
+        30,
+        29,
+        32,
+        26,
+        27,
+        22,
+        19,
+        102,
+        1,
+        318
+      ],
+      "score": 208.0,
+      "length": 2190.471311742808
+    }
+  ],
+  "dataset": "dang",
+  "instance_name": "lin318_gen3_m4.txt",
+  "run_seed": 54007,
+  "run_index": 0
+}

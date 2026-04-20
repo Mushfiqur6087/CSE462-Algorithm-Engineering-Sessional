@@ -1,0 +1,137 @@
+{
+  "instance": {
+    "num_nodes": 201,
+    "team_size": 4,
+    "max_route_distance": 3671.0,
+    "start_depot": 0,
+    "end_depot": 200
+  },
+  "objective": {
+    "total_score": 73.0
+  },
+  "performance": {
+    "cpu_time_seconds": 1.1139289000002464,
+    "iterations": 20,
+    "iterations_to_convergence": 11,
+    "last_improvement_iteration": 11,
+    "stagnation_iterations": 9,
+    "accepted_worse_moves": 1,
+    "restarts_performed": 1,
+    "num_lp_solves": null,
+    "num_labels_generated": null
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        39,
+        146,
+        11,
+        162,
+        92,
+        105,
+        148,
+        98,
+        174,
+        9,
+        91,
+        118,
+        18,
+        189,
+        48,
+        17,
+        109,
+        45,
+        200
+      ],
+      "score": 18.0,
+      "length": 3586.5709218906954
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        84,
+        190,
+        197,
+        12,
+        176,
+        66,
+        46,
+        5,
+        108,
+        106,
+        119,
+        41,
+        134,
+        161,
+        159,
+        78,
+        14,
+        122,
+        144,
+        200
+      ],
+      "score": 19.0,
+      "length": 3569.773583332659
+    },
+    {
+      "route_index": 3,
+      "nodes": [
+        0,
+        52,
+        110,
+        173,
+        120,
+        171,
+        28,
+        183,
+        36,
+        178,
+        43,
+        187,
+        62,
+        15,
+        117,
+        123,
+        137,
+        60,
+        135,
+        31,
+        23,
+        158,
+        116,
+        114,
+        200
+      ],
+      "score": 23.0,
+      "length": 3611.491499480632
+    },
+    {
+      "route_index": 4,
+      "nodes": [
+        0,
+        19,
+        63,
+        54,
+        185,
+        126,
+        111,
+        154,
+        182,
+        156,
+        30,
+        64,
+        26,
+        131,
+        200
+      ],
+      "score": 13.0,
+      "length": 3654.9108180176067
+    }
+  ],
+  "dataset": "dang",
+  "instance_name": "kroA200_gen1_m4.txt",
+  "run_seed": 50
+}

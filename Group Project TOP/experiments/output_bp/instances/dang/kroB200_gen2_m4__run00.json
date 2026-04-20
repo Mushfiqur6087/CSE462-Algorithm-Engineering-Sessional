@@ -1,0 +1,92 @@
+{
+  "instance": {
+    "num_nodes": 201,
+    "team_size": 4,
+    "max_route_distance": 3679.75,
+    "start_depot": 0,
+    "end_depot": 200
+  },
+  "objective": {
+    "total_score": 1665.0
+  },
+  "performance": {
+    "cpu_time_seconds": 1.7693882000166923,
+    "iterations": 2,
+    "iterations_to_convergence": 2,
+    "last_improvement_iteration": 2,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 0,
+    "num_lp_solves": 2,
+    "num_labels_generated": 1412004,
+    "columns_generated": 600,
+    "columns_in_pool": 600,
+    "fractional_columns_at_root": 0
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        2,
+        26,
+        200
+      ],
+      "score": 178.0,
+      "length": 2396.301195169085
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        36,
+        9,
+        200
+      ],
+      "score": 175.0,
+      "length": 2870.4573179599192
+    },
+    {
+      "route_index": 3,
+      "nodes": [
+        0,
+        24,
+        19,
+        200
+      ],
+      "score": 193.0,
+      "length": 1877.32073504642
+    },
+    {
+      "route_index": 4,
+      "nodes": [
+        0,
+        89,
+        173,
+        160,
+        70,
+        11,
+        106,
+        174,
+        58,
+        75,
+        96,
+        128,
+        98,
+        28,
+        135,
+        166,
+        31,
+        97,
+        94,
+        200
+      ],
+      "score": 1119.0,
+      "length": 3288.4981664065554
+    }
+  ],
+  "dataset": "dang",
+  "instance_name": "kroB200_gen2_m4.txt",
+  "run_seed": 46007,
+  "run_index": 0
+}

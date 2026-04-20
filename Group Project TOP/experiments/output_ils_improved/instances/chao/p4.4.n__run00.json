@@ -1,0 +1,129 @@
+{
+  "instance": {
+    "num_nodes": 100,
+    "team_size": 4,
+    "max_route_distance": 45.0,
+    "start_depot": 0,
+    "end_depot": 99
+  },
+  "objective": {
+    "total_score": 867.0
+  },
+  "performance": {
+    "cpu_time_seconds": 0.37606229999983043,
+    "iterations": 20,
+    "iterations_to_convergence": 1,
+    "last_improvement_iteration": 1,
+    "stagnation_iterations": 19,
+    "accepted_worse_moves": 11,
+    "restarts_performed": 1,
+    "num_lp_solves": null,
+    "num_labels_generated": null
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        96,
+        66,
+        41,
+        86,
+        50,
+        3,
+        92,
+        87,
+        84,
+        60,
+        35,
+        44,
+        49,
+        89,
+        24,
+        78,
+        99
+      ],
+      "score": 239.0,
+      "length": 44.08272929121888
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        23,
+        7,
+        34,
+        43,
+        94,
+        18,
+        11,
+        63,
+        33,
+        70,
+        21,
+        98,
+        6,
+        76,
+        99
+      ],
+      "score": 173.0,
+      "length": 44.93511123898776
+    },
+    {
+      "route_index": 3,
+      "nodes": [
+        0,
+        30,
+        57,
+        9,
+        81,
+        29,
+        53,
+        42,
+        79,
+        10,
+        80,
+        22,
+        69,
+        85,
+        52,
+        97,
+        55,
+        82,
+        99
+      ],
+      "score": 224.0,
+      "length": 44.59520205081512
+    },
+    {
+      "route_index": 4,
+      "nodes": [
+        0,
+        14,
+        67,
+        38,
+        28,
+        20,
+        26,
+        32,
+        88,
+        71,
+        12,
+        75,
+        90,
+        17,
+        39,
+        62,
+        45,
+        74,
+        99
+      ],
+      "score": 231.0,
+      "length": 44.900656379970115
+    }
+  ],
+  "dataset": "chao",
+  "instance_name": "p4.4.n.txt",
+  "run_seed": 53007,
+  "run_index": 0
+}

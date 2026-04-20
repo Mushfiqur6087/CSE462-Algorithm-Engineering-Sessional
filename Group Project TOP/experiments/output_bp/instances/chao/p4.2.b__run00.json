@@ -1,0 +1,62 @@
+{
+  "instance": {
+    "num_nodes": 100,
+    "team_size": 2,
+    "max_route_distance": 30.0,
+    "start_depot": 0,
+    "end_depot": 99
+  },
+  "objective": {
+    "total_score": 214.0
+  },
+  "performance": {
+    "cpu_time_seconds": 0.42137039999943227,
+    "iterations": 2,
+    "iterations_to_convergence": 2,
+    "last_improvement_iteration": 2,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 0,
+    "num_lp_solves": 2,
+    "num_labels_generated": 265232,
+    "columns_generated": 210,
+    "columns_in_pool": 210,
+    "fractional_columns_at_root": 0
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        14,
+        17,
+        99
+      ],
+      "score": 54.0,
+      "length": 29.75270983333367
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        96,
+        50,
+        3,
+        47,
+        23,
+        7,
+        43,
+        34,
+        76,
+        82,
+        99
+      ],
+      "score": 160.0,
+      "length": 29.126435338080167
+    }
+  ],
+  "dataset": "chao",
+  "instance_name": "p4.2.b.txt",
+  "run_seed": 1007,
+  "run_index": 0
+}

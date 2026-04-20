@@ -1,0 +1,139 @@
+{
+  "instance": {
+    "num_nodes": 263,
+    "team_size": 4,
+    "max_route_distance": 297.25,
+    "start_depot": 0,
+    "end_depot": 262
+  },
+  "objective": {
+    "total_score": 2319.0
+  },
+  "performance": {
+    "cpu_time_seconds": 10.254456999944523,
+    "iterations": 20,
+    "iterations_to_convergence": 20,
+    "last_improvement_iteration": 20,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 1,
+    "restarts_performed": 1,
+    "num_lp_solves": null,
+    "num_labels_generated": null
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        67,
+        141,
+        233,
+        253,
+        137,
+        20,
+        185,
+        171,
+        139,
+        6,
+        245,
+        159,
+        163,
+        80,
+        114,
+        208,
+        98,
+        230,
+        262
+      ],
+      "score": 544.0,
+      "length": 289.84872850756005
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        220,
+        128,
+        129,
+        48,
+        123,
+        136,
+        53,
+        203,
+        197,
+        72,
+        95,
+        165,
+        206,
+        190,
+        4,
+        132,
+        60,
+        89,
+        204,
+        30,
+        262
+      ],
+      "score": 662.0,
+      "length": 288.89960282428757
+    },
+    {
+      "route_index": 3,
+      "nodes": [
+        0,
+        228,
+        70,
+        32,
+        71,
+        184,
+        18,
+        78,
+        261,
+        29,
+        17,
+        260,
+        26,
+        172,
+        256,
+        11,
+        210,
+        262
+      ],
+      "score": 513.0,
+      "length": 293.5949019776344
+    },
+    {
+      "route_index": 4,
+      "nodes": [
+        0,
+        138,
+        201,
+        154,
+        75,
+        153,
+        86,
+        33,
+        181,
+        155,
+        27,
+        94,
+        187,
+        257,
+        3,
+        99,
+        144,
+        243,
+        107,
+        69,
+        231,
+        262
+      ],
+      "score": 600.0,
+      "length": 296.83526701995066
+    }
+  ],
+  "dataset": "dang",
+  "instance_name": "gil262_gen3_m4.txt",
+  "run_seed": 27008,
+  "run_index": 1
+}

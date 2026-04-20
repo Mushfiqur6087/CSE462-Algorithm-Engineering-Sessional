@@ -1,0 +1,78 @@
+{
+  "instance": {
+    "num_nodes": 66,
+    "team_size": 2,
+    "max_route_distance": 30.0,
+    "start_depot": 0,
+    "end_depot": 65
+  },
+  "objective": {
+    "total_score": 700.0
+  },
+  "performance": {
+    "cpu_time_seconds": 2.371125299949199,
+    "iterations": 2,
+    "iterations_to_convergence": 2,
+    "last_improvement_iteration": 2,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 0,
+    "num_lp_solves": 2,
+    "num_labels_generated": 288640,
+    "columns_generated": 1595,
+    "columns_in_pool": 1595,
+    "fractional_columns_at_root": 0
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        28,
+        20,
+        12,
+        4,
+        5,
+        6,
+        7,
+        8,
+        16,
+        15,
+        14,
+        13,
+        21,
+        29,
+        65
+      ],
+      "score": 350.0,
+      "length": 28.92080962648189
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        37,
+        45,
+        53,
+        61,
+        60,
+        59,
+        58,
+        57,
+        49,
+        50,
+        51,
+        52,
+        44,
+        36,
+        65
+      ],
+      "score": 350.0,
+      "length": 28.92080962648189
+    }
+  ],
+  "dataset": "chao",
+  "instance_name": "p5.2.l.txt",
+  "run_seed": 71007,
+  "run_index": 0
+}

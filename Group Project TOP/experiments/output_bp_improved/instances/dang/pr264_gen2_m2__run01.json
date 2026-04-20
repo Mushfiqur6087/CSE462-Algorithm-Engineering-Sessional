@@ -1,0 +1,70 @@
+{
+  "instance": {
+    "num_nodes": 265,
+    "team_size": 2,
+    "max_route_distance": 12284.0,
+    "start_depot": 0,
+    "end_depot": 264
+  },
+  "objective": {
+    "total_score": 1151.0
+  },
+  "performance": {
+    "cpu_time_seconds": 15.801260699983686,
+    "iterations": 6,
+    "iterations_to_convergence": 6,
+    "last_improvement_iteration": 6,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 3,
+    "num_lp_solves": 6,
+    "num_labels_generated": 5680620,
+    "columns_generated": 5079,
+    "columns_in_pool": 1693,
+    "fractional_columns_at_root": 0
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        2,
+        24,
+        264
+      ],
+      "score": 196.0,
+      "length": 6545.934082381721
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        38,
+        37,
+        36,
+        60,
+        59,
+        120,
+        119,
+        118,
+        116,
+        115,
+        63,
+        62,
+        61,
+        35,
+        34,
+        33,
+        39,
+        40,
+        264
+      ],
+      "score": 955.0,
+      "length": 3279.669127533634
+    }
+  ],
+  "dataset": "dang",
+  "instance_name": "pr264_gen2_m2.txt",
+  "run_seed": 58008,
+  "run_index": 1
+}

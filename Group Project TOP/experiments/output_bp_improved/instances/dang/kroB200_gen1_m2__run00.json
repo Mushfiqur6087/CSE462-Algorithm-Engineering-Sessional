@@ -1,0 +1,70 @@
+{
+  "instance": {
+    "num_nodes": 201,
+    "team_size": 2,
+    "max_route_distance": 7359.5,
+    "start_depot": 0,
+    "end_depot": 200
+  },
+  "objective": {
+    "total_score": 20.0
+  },
+  "performance": {
+    "cpu_time_seconds": 22.105341299902648,
+    "iterations": 6,
+    "iterations_to_convergence": 6,
+    "last_improvement_iteration": 6,
+    "stagnation_iterations": 0,
+    "accepted_worse_moves": 0,
+    "restarts_performed": 3,
+    "num_lp_solves": 6,
+    "num_labels_generated": 4236012,
+    "columns_generated": 5133,
+    "columns_in_pool": 1711,
+    "fractional_columns_at_root": 0
+  },
+  "routes": [
+    {
+      "route_index": 1,
+      "nodes": [
+        0,
+        29,
+        12,
+        200
+      ],
+      "score": 2.0,
+      "length": 6277.528304060907
+    },
+    {
+      "route_index": 2,
+      "nodes": [
+        0,
+        97,
+        173,
+        11,
+        106,
+        70,
+        160,
+        89,
+        20,
+        122,
+        67,
+        110,
+        116,
+        39,
+        189,
+        188,
+        9,
+        141,
+        94,
+        200
+      ],
+      "score": 18.0,
+      "length": 3886.7853627204026
+    }
+  ],
+  "dataset": "dang",
+  "instance_name": "kroB200_gen1_m2.txt",
+  "run_seed": 44007,
+  "run_index": 0
+}
