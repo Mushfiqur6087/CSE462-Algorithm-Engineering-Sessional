@@ -1,1 +1,4 @@
 /venv
+
+# Generated experiment outputs (reproducible artifacts)
+/Group Project TOP/experiments/output*/
